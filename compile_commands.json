@@ -1,0 +1,352 @@
+[
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\main.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/main.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\animate\\animate.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\animate\\animate.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/animate/animate.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\animate\\random.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\animate\\random.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/animate/random.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\animate\\sidebar.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\animate\\sidebar.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/animate/sidebar.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\animate\\system.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\animate\\system.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/animate/system.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\exceptions\\dividebyzero.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\exceptions\\dividebyzero.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/exceptions/dividebyzero.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\exceptions\\missingparan.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\exceptions\\missingparan.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/exceptions/missingparan.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\graph\\graph.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\graph\\graph.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/graph/graph.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\graph_info\\graph_info.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\graph_info\\graph_info.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/graph_info/graph_info.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\plot\\plot.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\plot\\plot.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/plot/plot.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\rpn\\rpn.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\rpn\\rpn.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/rpn/rpn.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\shunting_yard\\shunting_yard.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\shunting_yard\\shunting_yard.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/shunting_yard/shunting_yard.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\alpha.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\alpha.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/alpha.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\function.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\function.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/function.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\integer.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\integer.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/integer.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\leftparen.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\leftparen.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/leftparen.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\operator.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\operator.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/operator.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\rightparen.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\rightparen.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/rightparen.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\tk_string.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\tk_string.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/tk_string.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\token\\token.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\token.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/token.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\tokenizer\\tokenizer.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\tokenizer\\tokenizer.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/tokenizer/tokenizer.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\translate\\translate.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\translate\\translate.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/translate/translate.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\_tests\\_test_files\\basic_test.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\_tests\\_test_files\\basic_test.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/_tests/_test_files/basic_test.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\animate\\animate.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\animate\\animate.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/animate/animate.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\animate\\random.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\animate\\random.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/animate/random.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\animate\\sidebar.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\animate\\sidebar.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/animate/sidebar.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\animate\\system.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\animate\\system.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/animate/system.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\exceptions\\dividebyzero.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\exceptions\\dividebyzero.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/exceptions/dividebyzero.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\exceptions\\missingparan.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\exceptions\\missingparan.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/exceptions/missingparan.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\graph\\graph.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\graph\\graph.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/graph/graph.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\graph_info\\graph_info.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\graph_info\\graph_info.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/graph_info/graph_info.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\plot\\plot.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\plot\\plot.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/plot/plot.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\rpn\\rpn.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\rpn\\rpn.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/rpn/rpn.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\shunting_yard\\shunting_yard.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\shunting_yard\\shunting_yard.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/shunting_yard/shunting_yard.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\alpha.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\alpha.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/alpha.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\function.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\function.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/function.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\integer.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\integer.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/integer.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\leftparen.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\leftparen.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/leftparen.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\operator.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\operator.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/operator.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\rightparen.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\rightparen.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/rightparen.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\tk_string.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\tk_string.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/tk_string.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\token\\token.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\token.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/token.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\tokenizer\\tokenizer.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\tokenizer\\tokenizer.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/tokenizer/tokenizer.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\basic_test.dir\\includes\\translate\\translate.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\translate\\translate.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/translate/translate.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\_tests\\_test_files\\testB.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\_tests\\_test_files\\testB.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/_tests/_test_files/testB.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\animate\\animate.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\animate\\animate.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/animate/animate.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\animate\\random.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\animate\\random.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/animate/random.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\animate\\sidebar.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\animate\\sidebar.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/animate/sidebar.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\animate\\system.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\animate\\system.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/animate/system.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\exceptions\\dividebyzero.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\exceptions\\dividebyzero.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/exceptions/dividebyzero.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\exceptions\\missingparan.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\exceptions\\missingparan.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/exceptions/missingparan.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\graph\\graph.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\graph\\graph.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/graph/graph.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\graph_info\\graph_info.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\graph_info\\graph_info.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/graph_info/graph_info.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\plot\\plot.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\plot\\plot.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/plot/plot.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\rpn\\rpn.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\rpn\\rpn.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/rpn/rpn.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\shunting_yard\\shunting_yard.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\shunting_yard\\shunting_yard.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/shunting_yard/shunting_yard.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\alpha.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\alpha.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/alpha.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\function.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\function.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/function.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\integer.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\integer.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/integer.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\leftparen.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\leftparen.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/leftparen.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\operator.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\operator.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/operator.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\rightparen.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\rightparen.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/rightparen.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\tk_string.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\tk_string.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/tk_string.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\token\\token.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\token\\token.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/token/token.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\tokenizer\\tokenizer.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\tokenizer\\tokenizer.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/tokenizer/tokenizer.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\testB.dir\\includes\\translate\\translate.cpp.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\includes\\translate\\translate.cpp\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/includes/translate/translate.cpp"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build/_deps/googletest-build/googlemock",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build/_deps/googletest-build/googlemock",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build/_deps/googletest-build/googletest",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build/_deps/googletest-build/googletest",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -Wall -Wshadow -Werror -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\kylal\\OneDrive\\Documents\\School\\SPR22 CS003A\\99_00_final_project-kyend\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc\"",
+  "file": "C:/Users/kylal/OneDrive/Documents/School/SPR22 CS003A/99_00_final_project-kyend/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]
