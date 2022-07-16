@@ -1,7 +1,7 @@
 
 # Work Report
 
-## Name: <ins> your name goes here </ins>
+## Name: <ins> Kyla Lendroth </ins>
 
 ## Features:
 
@@ -11,7 +11,17 @@
 <br><br>
 
 - Implemented:
-  - what has been implemented
+  - RPN & shunting yard
+  - stack & queue
+  - token class
+  - tokenizer
+  - animate, system, graph, and plot communicate through graph_info
+  - sidebar features text
+  - multiple clickable functions that save to a history
+  - pan & zoom
+  - grid lines
+  - reset window button
+  - fixed multi click bug
 
 <br><br>
 
